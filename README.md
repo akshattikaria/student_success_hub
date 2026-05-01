@@ -1,4 +1,4 @@
-# USILAS - University-Scale Intelligent Learning Analytics System
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/05512bc5-e8fd-4568-a537-c67118976b75" /># USILAS - University-Scale Intelligent Learning Analytics System
 
 **USILAS** is a proactive, data-driven academic decision-support prototype. It shifts traditional university academic monitoring from a reactive, post-examination model to a real-time, predictive system. By continuously evaluating attendance and assessment data, USILAS identifies at-risk students early, provides actionable suggestions, and facilitates structured academic interventions.
 
@@ -72,7 +72,7 @@ The login page features "Demo Role" shortcuts for quick testing. Clicking a role
 | **Student** | `aarav.sharma@university.edu` | `student123` | Personal risk score, alerts, actionable suggestions. |
 | **Teacher** | `priya.nair@university.edu` | `teacher123` | Class analytics, at-risk filtering, updating student marks. |
 | **Advisor** | `rahul.verma@university.edu` | `advisor123` | Counseling logs, triggering and managing interventions. |
-| **HOD** | `meera.iyer@university.edu` | `admin123` | Department-wide risk distributions and faculty oversight. |
+| **HOD** | `hod@vjti.edu` | `password` | Department-wide risk distributions and faculty oversight. |
 | **Admin** | `meera.iyer@university.edu` | `admin123` | User directory management (CRUD) and institutional reports. |
 
 ## 🧪 Testing Notes (Phase 1 Prototype)
