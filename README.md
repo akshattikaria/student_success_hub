@@ -1,4 +1,4 @@
-<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/05512bc5-e8fd-4568-a537-c67118976b75" /># USILAS - University-Scale Intelligent Learning Analytics System
+# USILAS - University-Scale Intelligent Learning Analytics System
 
 **USILAS** is a proactive, data-driven academic decision-support prototype. It shifts traditional university academic monitoring from a reactive, post-examination model to a real-time, predictive system. By continuously evaluating attendance and assessment data, USILAS identifies at-risk students early, provides actionable suggestions, and facilitates structured academic interventions.
 
