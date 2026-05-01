@@ -1,0 +1,950 @@
+{
+  "U-2024-0871": {
+    "userId": "U-2024-0871",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 3",
+    "credits": 90,
+    "rank": 23,
+    "attendance": 80,
+    "gpa": 2.46,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 64,
+        "attendance": 62,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 71,
+        "attendance": 73,
+        "grade": "B",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 78,
+        "attendance": 84,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 68,
+        "attendance": 72,
+        "grade": "C",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 75,
+        "attendance": 83,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 65,
+        "attendance": 71,
+        "grade": "C",
+        "trend": "down"
+      },
+      {
+        "subject": "Advanced Quantum Computing",
+        "short": "AD",
+        "marks": 10,
+        "grade": "F",
+        "attendance": 80,
+        "trend": "up",
+        "examType": "Internal"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 64,
+        "average": 63
+      },
+      {
+        "month": "Oct",
+        "score": 69,
+        "average": 66
+      },
+      {
+        "month": "Nov",
+        "score": 74,
+        "average": 69
+      },
+      {
+        "month": "Dec",
+        "score": 66,
+        "average": 65
+      },
+      {
+        "month": "Jan",
+        "score": 71,
+        "average": 68
+      },
+      {
+        "month": "Feb",
+        "score": 76,
+        "average": 64
+      },
+      {
+        "month": "Mar",
+        "score": 68,
+        "average": 67
+      },
+      {
+        "month": "Apr",
+        "score": 73,
+        "average": 63
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 0
+      },
+      {
+        "week": "W2",
+        "score": 8
+      },
+      {
+        "week": "W3",
+        "score": 17
+      },
+      {
+        "week": "W4",
+        "score": 15
+      },
+      {
+        "week": "W5",
+        "score": 24
+      },
+      {
+        "week": "W6",
+        "score": 22
+      },
+      {
+        "week": "W7",
+        "score": 31
+      }
+    ],
+    "notes": [],
+    "riskScore": 30,
+    "riskLevel": "Medium"
+  },
+  "U-2024-0312": {
+    "userId": "U-2024-0312",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 3",
+    "credits": 60,
+    "rank": 8,
+    "attendance": 80,
+    "gpa": 2.25,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 50,
+        "attendance": 48,
+        "grade": "D",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 57,
+        "attendance": 59,
+        "grade": "D",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 64,
+        "attendance": 70,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 54,
+        "attendance": 58,
+        "grade": "D",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 61,
+        "attendance": 69,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 51,
+        "attendance": 57,
+        "grade": "D",
+        "trend": "down"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 50,
+        "average": 49
+      },
+      {
+        "month": "Oct",
+        "score": 55,
+        "average": 52
+      },
+      {
+        "month": "Nov",
+        "score": 60,
+        "average": 55
+      },
+      {
+        "month": "Dec",
+        "score": 52,
+        "average": 51
+      },
+      {
+        "month": "Jan",
+        "score": 57,
+        "average": 54
+      },
+      {
+        "month": "Feb",
+        "score": 62,
+        "average": 50
+      },
+      {
+        "month": "Mar",
+        "score": 54,
+        "average": 53
+      },
+      {
+        "month": "Apr",
+        "score": 59,
+        "average": 49
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 13
+      },
+      {
+        "week": "W2",
+        "score": 22
+      },
+      {
+        "week": "W3",
+        "score": 31
+      },
+      {
+        "week": "W4",
+        "score": 29
+      },
+      {
+        "week": "W5",
+        "score": 38
+      },
+      {
+        "week": "W6",
+        "score": 36
+      },
+      {
+        "week": "W7",
+        "score": 45
+      }
+    ],
+    "notes": [],
+    "riskScore": 33,
+    "riskLevel": "Medium"
+  },
+  "U-2024-0455": {
+    "userId": "U-2024-0455",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 3",
+    "credits": 60,
+    "rank": 2,
+    "attendance": 63,
+    "gpa": 2.25,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 50,
+        "attendance": 48,
+        "grade": "D",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 57,
+        "attendance": 59,
+        "grade": "D",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 64,
+        "attendance": 70,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 54,
+        "attendance": 58,
+        "grade": "D",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 61,
+        "attendance": 69,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 51,
+        "attendance": 57,
+        "grade": "D",
+        "trend": "down"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 50,
+        "average": 49
+      },
+      {
+        "month": "Oct",
+        "score": 55,
+        "average": 52
+      },
+      {
+        "month": "Nov",
+        "score": 60,
+        "average": 55
+      },
+      {
+        "month": "Dec",
+        "score": 52,
+        "average": 51
+      },
+      {
+        "month": "Jan",
+        "score": 57,
+        "average": 54
+      },
+      {
+        "month": "Feb",
+        "score": 62,
+        "average": 50
+      },
+      {
+        "month": "Mar",
+        "score": 54,
+        "average": 53
+      },
+      {
+        "month": "Apr",
+        "score": 59,
+        "average": 49
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 13
+      },
+      {
+        "week": "W2",
+        "score": 22
+      },
+      {
+        "week": "W3",
+        "score": 31
+      },
+      {
+        "week": "W4",
+        "score": 29
+      },
+      {
+        "week": "W5",
+        "score": 38
+      },
+      {
+        "week": "W6",
+        "score": 36
+      },
+      {
+        "week": "W7",
+        "score": 45
+      }
+    ],
+    "notes": []
+  },
+  "U-2024-0119": {
+    "userId": "U-2024-0119",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 2",
+    "credits": 90,
+    "rank": 17,
+    "attendance": 74,
+    "gpa": 2.81,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 64,
+        "attendance": 62,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 71,
+        "attendance": 73,
+        "grade": "B",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 78,
+        "attendance": 84,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 68,
+        "attendance": 72,
+        "grade": "C",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 75,
+        "attendance": 83,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 65,
+        "attendance": 71,
+        "grade": "C",
+        "trend": "down"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 64,
+        "average": 63
+      },
+      {
+        "month": "Oct",
+        "score": 69,
+        "average": 66
+      },
+      {
+        "month": "Nov",
+        "score": 74,
+        "average": 69
+      },
+      {
+        "month": "Dec",
+        "score": 66,
+        "average": 65
+      },
+      {
+        "month": "Jan",
+        "score": 71,
+        "average": 68
+      },
+      {
+        "month": "Feb",
+        "score": 76,
+        "average": 64
+      },
+      {
+        "month": "Mar",
+        "score": 68,
+        "average": 67
+      },
+      {
+        "month": "Apr",
+        "score": 73,
+        "average": 63
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 0
+      },
+      {
+        "week": "W2",
+        "score": 8
+      },
+      {
+        "week": "W3",
+        "score": 17
+      },
+      {
+        "week": "W4",
+        "score": 15
+      },
+      {
+        "week": "W5",
+        "score": 24
+      },
+      {
+        "week": "W6",
+        "score": 22
+      },
+      {
+        "week": "W7",
+        "score": 31
+      }
+    ],
+    "notes": []
+  },
+  "U-2024-0623": {
+    "userId": "U-2024-0623",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 2",
+    "credits": 90,
+    "rank": 21,
+    "attendance": 74,
+    "gpa": 2.81,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 64,
+        "attendance": 62,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 71,
+        "attendance": 73,
+        "grade": "B",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 78,
+        "attendance": 84,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 68,
+        "attendance": 72,
+        "grade": "C",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 75,
+        "attendance": 83,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 65,
+        "attendance": 71,
+        "grade": "C",
+        "trend": "down"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 64,
+        "average": 63
+      },
+      {
+        "month": "Oct",
+        "score": 69,
+        "average": 66
+      },
+      {
+        "month": "Nov",
+        "score": 74,
+        "average": 69
+      },
+      {
+        "month": "Dec",
+        "score": 66,
+        "average": 65
+      },
+      {
+        "month": "Jan",
+        "score": 71,
+        "average": 68
+      },
+      {
+        "month": "Feb",
+        "score": 76,
+        "average": 64
+      },
+      {
+        "month": "Mar",
+        "score": 68,
+        "average": 67
+      },
+      {
+        "month": "Apr",
+        "score": 73,
+        "average": 63
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 0
+      },
+      {
+        "week": "W2",
+        "score": 8
+      },
+      {
+        "week": "W3",
+        "score": 17
+      },
+      {
+        "week": "W4",
+        "score": 15
+      },
+      {
+        "week": "W5",
+        "score": 24
+      },
+      {
+        "week": "W6",
+        "score": 22
+      },
+      {
+        "week": "W7",
+        "score": 31
+      }
+    ],
+    "notes": []
+  },
+  "U-2024-0788": {
+    "userId": "U-2024-0788",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 2",
+    "credits": 90,
+    "rank": 3,
+    "attendance": 40,
+    "gpa": 3.06,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 64,
+        "attendance": 62,
+        "grade": "C",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 71,
+        "attendance": 73,
+        "grade": "B",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 78,
+        "attendance": 84,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 68,
+        "attendance": 72,
+        "grade": "C",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 75,
+        "attendance": 83,
+        "grade": "B+",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 90,
+        "attendance": 71,
+        "grade": "A+",
+        "trend": "up"
+      },
+      {
+        "subject": "SE",
+        "short": "SE",
+        "marks": 90,
+        "grade": "A+",
+        "attendance": 40,
+        "trend": "up",
+        "examType": "Internal"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 64,
+        "average": 63
+      },
+      {
+        "month": "Oct",
+        "score": 69,
+        "average": 66
+      },
+      {
+        "month": "Nov",
+        "score": 74,
+        "average": 69
+      },
+      {
+        "month": "Dec",
+        "score": 66,
+        "average": 65
+      },
+      {
+        "month": "Jan",
+        "score": 71,
+        "average": 68
+      },
+      {
+        "month": "Feb",
+        "score": 76,
+        "average": 64
+      },
+      {
+        "month": "Mar",
+        "score": 68,
+        "average": 67
+      },
+      {
+        "month": "Apr",
+        "score": 73,
+        "average": 63
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 0
+      },
+      {
+        "week": "W2",
+        "score": 8
+      },
+      {
+        "week": "W3",
+        "score": 17
+      },
+      {
+        "week": "W4",
+        "score": 15
+      },
+      {
+        "week": "W5",
+        "score": 24
+      },
+      {
+        "week": "W6",
+        "score": 22
+      },
+      {
+        "week": "W7",
+        "score": 31
+      }
+    ],
+    "notes": [],
+    "riskScore": 40,
+    "riskLevel": "Medium"
+  },
+  "U-2024-0901": {
+    "userId": "U-2024-0901",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 1",
+    "credits": 110,
+    "rank": 26,
+    "attendance": 84,
+    "gpa": 3.21,
+    "subjects": [
+      {
+        "subject": "Data Structures",
+        "short": "DS",
+        "marks": 74,
+        "attendance": 72,
+        "grade": "B",
+        "trend": "up"
+      },
+      {
+        "subject": "Operating Systems",
+        "short": "OS",
+        "marks": 81,
+        "attendance": 83,
+        "grade": "A",
+        "trend": "down"
+      },
+      {
+        "subject": "Database Systems",
+        "short": "DB",
+        "marks": 88,
+        "attendance": 94,
+        "grade": "A",
+        "trend": "up"
+      },
+      {
+        "subject": "Machine Learning",
+        "short": "ML",
+        "marks": 78,
+        "attendance": 82,
+        "grade": "B+",
+        "trend": "down"
+      },
+      {
+        "subject": "Computer Networks",
+        "short": "CN",
+        "marks": 85,
+        "attendance": 93,
+        "grade": "A",
+        "trend": "up"
+      },
+      {
+        "subject": "Software Engineering",
+        "short": "SE",
+        "marks": 75,
+        "attendance": 81,
+        "grade": "B+",
+        "trend": "down"
+      }
+    ],
+    "performanceTrend": [
+      {
+        "month": "Sep",
+        "score": 74,
+        "average": 73
+      },
+      {
+        "month": "Oct",
+        "score": 79,
+        "average": 76
+      },
+      {
+        "month": "Nov",
+        "score": 84,
+        "average": 79
+      },
+      {
+        "month": "Dec",
+        "score": 76,
+        "average": 75
+      },
+      {
+        "month": "Jan",
+        "score": 81,
+        "average": 78
+      },
+      {
+        "month": "Feb",
+        "score": 86,
+        "average": 74
+      },
+      {
+        "month": "Mar",
+        "score": 78,
+        "average": 77
+      },
+      {
+        "month": "Apr",
+        "score": 83,
+        "average": 73
+      }
+    ],
+    "riskTrend": [
+      {
+        "week": "W1",
+        "score": 0
+      },
+      {
+        "week": "W2",
+        "score": 0
+      },
+      {
+        "week": "W3",
+        "score": 7
+      },
+      {
+        "week": "W4",
+        "score": 5
+      },
+      {
+        "week": "W5",
+        "score": 14
+      },
+      {
+        "week": "W6",
+        "score": 12
+      },
+      {
+        "week": "W7",
+        "score": 21
+      }
+    ],
+    "notes": []
+  }
+}

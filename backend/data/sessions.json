@@ -1,0 +1,22 @@
+{
+  "2163dc380ba3c3ee0d24a75b9140d89f7cdfba78a0cff94e7d23f16d8895f30f": {
+    "id": "T-2019-044",
+    "name": "Dr. Priya Nair",
+    "email": "priya.nair@university.edu",
+    "role": "teacher",
+    "status": "active",
+    "joined": "2019-07-01",
+    "avatar": "PN",
+    "title": "Asst. Professor · CS Dept."
+  },
+  "9368eb73d7e15e45d0fa71ac72b6400571d0f16674648c36ecddd64408f63b96": {
+    "id": "U-2024-0871",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2022-08-15",
+    "avatar": "AS",
+    "title": "B.Sc. Computer Science · Year 3"
+  }
+}

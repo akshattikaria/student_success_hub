@@ -1,0 +1,167 @@
+[
+  {
+    "id": "H-2026-0001",
+    "name": "Dr. Smith (HOD)",
+    "email": "hod@vjti.edu",
+    "role": "hod",
+    "status": "active",
+    "joined": "2026-01-01",
+    "avatar": "DS",
+    "title": "Head of Department",
+    "password": "password"
+  },
+  {
+    "id": "T-2026-0014",
+    "name": "alex",
+    "email": "alex@gmail",
+    "role": "teacher",
+    "status": "active",
+    "joined": "2026-04-29",
+    "avatar": "A",
+    "title": "Faculty · CS Dept.",
+    "password": "demo1234"
+  },
+  {
+    "id": "U-2024-0871",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2022-08-15",
+    "avatar": "AS",
+    "title": "B.Sc. Computer Science · Year 3",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0312",
+    "name": "Maya Patel",
+    "email": "maya.p@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2022-08-15",
+    "avatar": "MP",
+    "title": "B.Sc. Computer Science · Year 3",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0455",
+    "name": "Liam Chen",
+    "email": "liam.c@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2022-08-15",
+    "avatar": "LC",
+    "title": "B.Sc. Computer Science · Year 3",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0119",
+    "name": "Sofia Rossi",
+    "email": "sofia.r@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2023-08-15",
+    "avatar": "SR",
+    "title": "B.Sc. Computer Science · Year 2",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0623",
+    "name": "Noah Kim",
+    "email": "noah.k@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2023-08-15",
+    "avatar": "NK",
+    "title": "B.Sc. Computer Science · Year 2",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0788",
+    "name": "Emma Müller",
+    "email": "emma.m@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2023-08-15",
+    "avatar": "EM",
+    "title": "B.Sc. Computer Science · Year 2",
+    "password": "student123"
+  },
+  {
+    "id": "U-2024-0901",
+    "name": "Yusuf Ali",
+    "email": "yusuf.a@university.edu",
+    "role": "student",
+    "status": "active",
+    "joined": "2024-08-15",
+    "avatar": "YA",
+    "title": "B.Sc. Computer Science · Year 1",
+    "password": "student123"
+  },
+  {
+    "id": "T-2019-044",
+    "name": "Dr. Priya Nair",
+    "email": "priya.nair@university.edu",
+    "role": "teacher",
+    "status": "active",
+    "joined": "2019-07-01",
+    "avatar": "PN",
+    "title": "Asst. Professor · CS Dept.",
+    "password": "teacher123"
+  },
+  {
+    "id": "T-2018-022",
+    "name": "Dr. Arjun Mehta",
+    "email": "arjun.mehta@university.edu",
+    "role": "teacher",
+    "status": "active",
+    "joined": "2018-07-01",
+    "avatar": "AM",
+    "title": "Assoc. Professor · CS Dept.",
+    "password": "teacher123"
+  },
+  {
+    "id": "T-2020-061",
+    "name": "Dr. Kavya Reddy",
+    "email": "kavya.reddy@university.edu",
+    "role": "teacher",
+    "status": "inactive",
+    "joined": "2020-07-01",
+    "avatar": "KR",
+    "title": "Asst. Professor · CS Dept.",
+    "password": "teacher123"
+  },
+  {
+    "id": "A-2021-009",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@university.edu",
+    "role": "advisor",
+    "status": "active",
+    "joined": "2021-01-10",
+    "avatar": "RV",
+    "title": "Academic Advisor · CS",
+    "password": "advisor123"
+  },
+  {
+    "id": "A-2022-014",
+    "name": "Sneha Kapoor",
+    "email": "sneha.k@university.edu",
+    "role": "advisor",
+    "status": "active",
+    "joined": "2022-01-10",
+    "avatar": "SK",
+    "title": "Academic Advisor · CS",
+    "password": "advisor123"
+  },
+  {
+    "id": "H-2015-001",
+    "name": "Prof. Meera Iyer",
+    "email": "meera.iyer@university.edu",
+    "role": "admin",
+    "status": "active",
+    "joined": "2015-06-01",
+    "avatar": "MI",
+    "title": "HOD · Computer Science",
+    "password": "admin123"
+  }
+]
