@@ -6,9 +6,14 @@
     },
     "backend": {
       "root": "backend",
-      "routePrefix": "/_/backend",
       "entrypoint": "server.js",
       "runtime": "@vercel/node"
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/_/backend/(.*)",
+      "destination": "/backend/server.js"
+    }
+  ]
 }
